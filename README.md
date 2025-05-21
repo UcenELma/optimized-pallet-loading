@@ -60,18 +60,15 @@ Le programme retournera :
 
 📉 Chargement 3D affiché à l’écran
 
-Exemple d’Entrée
-yaml
+`Exemple d’Entrée`
 
 Palette : 120 x 80 x 150 cm
 Boîte : 30 x 20 x 15 cm
 Poids boîte : 5 kg
 Charge max : 500 kg
 Nombre max de couches : 4
-Sortie :
 
-yaml
-
+`Sortie :`
 Orientation optimale : (30, 20, 15)
 Boîtes par couche : 16
 Couches : 4
@@ -92,7 +89,7 @@ Ce projet est distribué sous la licence MIT. Vous pouvez l’utiliser, le modif
 Projet développé par Hocine – Étudiant en Master Génie Logistique.
 Contact : elma.hocine@gmail.com
 
-Contributions
+`Contributions`
 Les contributions sont les bienvenues !
 Vous pouvez ouvrir une issue ou proposer une pull request pour :
 
